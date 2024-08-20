@@ -1,2 +1,1 @@
-influxdb:latest
-grafana/grafana:latest
+rabbitmq:latest
