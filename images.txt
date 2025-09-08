@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.1
+mysql/mysql:8.0.43
